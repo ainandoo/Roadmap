@@ -8,3 +8,6 @@ Roadmap.sh
 
 Web Developer Roadmap 2021 | Codestackr
 - https://www.youtube.com/watch?v=7k7ETzqOxn8
+
+How to Learn Web Development in 2021 - a Web Developer Roadmap | freeCodeCamp
+- https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/
