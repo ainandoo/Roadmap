@@ -17,5 +17,11 @@ Roadmap.sh
 Front End Study Guide
 - https://github.com/timmybytes-learning/Roadmap#Frameworks
 
+Front End Mind Map
+- https://github.com/ivan-kleshnin/frontend-mindmaps
+
+Junior Full Stack
+- https://github.com/ivan-kleshnin/fullstack-roadmap
+
 Full Stack JS
 - https://github.com/harked/fullstack_js_roadmap
