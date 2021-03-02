@@ -11,6 +11,9 @@ Web Developer Roadmap 2021 | Codestackr
 How to Learn Web Development in 2021 - a Web Developer Roadmap | freeCodeCamp
 - https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/
 
+(Modern) Ultimate Web Developer Roadmap for 2021
+- https://javascript.plainenglish.io/ultimate-web-developer-roadmap-for-2021-6758edd0bd3f
+
 Roadmap.sh
 - https://roadmap.sh/
 
